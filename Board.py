@@ -2,7 +2,6 @@
 # for the sliding puzzle problem. Contains the
 # heuristic function.
 # AUTHOR: LEIKA YAMADA
-# DATE: 7/12/2021
 
 ###################################################
 # This class defines the puzzleState object, it
