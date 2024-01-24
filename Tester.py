@@ -1,6 +1,5 @@
 # This is the driver file for the Puzzle Solver program.
 # AUTHOR: LEIKA YAMADA
-# DATE: 7/12/2021
 
 # Import the board and solver files
 import Board
