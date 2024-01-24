@@ -2,7 +2,8 @@
 # depth first search, greedy best first search, and AStar
 # in order to solve an n x n sliding puzzle.
 # AUTHOR: LEIKA YAMADA
-# DATE: 7/12/2021
+
+
 import Board
 depth = -1
 numCreated = 0
